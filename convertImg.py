@@ -82,7 +82,7 @@ ROCEYS.CN
 """
 
 if __name__=="__main__":
-    dir = r'F:\手机备份\微信备份\WeChat Files\togosb\FileStorage\Image\2019-12'
+    dir = r'F:\手机备份\微信备份\WeChat Files\jackma\FileStorage\Image\2019-12'
     d1 = '2019-12-25 20:12:00'
     d2 = '2019-12-25 20:20:59'
     main(dir,d1,d2)
